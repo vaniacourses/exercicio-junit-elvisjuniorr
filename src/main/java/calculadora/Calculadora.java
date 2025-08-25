@@ -5,33 +5,33 @@ public class Calculadora {
 
 	
 	/**
-	 * Este método soma dois inteiros e retorna o resultado
+	 * Este mÃ©todo soma dois inteiros e retorna o resultado
 	 * 
 	 * @param a
 	 * 	 Primeiro valor a ser adicionado
 	 * @param b
 	 * 	Segundo valor a ser adicionado
-	 * @return O valor retornado é a soma dos dois números
+	 * @return O valor retornado Ã© a soma dos dois nÃºmeros
 	 */
 	public int soma (int a, int b) {
 		return a + b;
 	}
 	
 	/**
-	 * Este método subtrai dois inteiros e retorna o resultado
+	 * Este mÃ©todo subtrai dois inteiros e retorna o resultado
 	 * 
 	 * @param a
-	 * 	 Primeiro valor a ser subtraído
+	 * 	 Primeiro valor a ser subtraÃ­do
 	 * @param b
-	 * 	Segundo valor a ser subtraído
-	 * @return O valor retornado é a subtração dos dois números
+	 * 	Segundo valor a ser subtraÃ­do
+	 * @return O valor retornado Ã© a subtraÃ§Ã£o dos dois nÃºmeros
 	 */	
 	public int subtracao(int a, int b) {
 		return a - b;
 	}
 	
 	/**
-	 * Este método multiplica dois inteiros e retorna o resultado
+	 * Este mÃ©todo multiplica dois inteiros e retorna o resultado
 	 * 
 	 * @param a
 	 * @param b
@@ -42,7 +42,7 @@ public class Calculadora {
 	}
 	
 	/**
-	 * Este método divide dois inteiros e retorna o resultado
+	 * Este mÃ©todo divide dois inteiros e retorna o resultado
 	 * 
 	 * @param a
 	 * @param b
@@ -53,10 +53,10 @@ public class Calculadora {
 	}	
 
 	/**
-	 * Este método retorna o somatório 0 até n
+	 * Este mÃ©todo retorna o somatÃ³rio 0 atÃ© n
 	 * 
 	 * @param n	  		
-	 * @return O retorno será o somatório de 0 até n
+	 * @return O retorno serÃ¡ o somatÃ³rio de 0 atÃ© n
 	 */
 	public int somatoria(int n) {
 		int somatorio = 0;
@@ -69,7 +69,7 @@ public class Calculadora {
 	
 	
 	/**
-	 * Este retorna se um inteiro n é positivo
+	 * Este retorna se um inteiro n Ã© positivo
 	 * 
 	 * @param n	 
 	 * @return
@@ -79,7 +79,7 @@ public class Calculadora {
 	}
 	
 	/**
-	 * Esse método compara dois número a e b
+	 * Esse mÃ©todo compara dois nÃºmeros a e b
 	 * @param a
 	 * @param b
 	 * @return 0 se a==b, 1 se a>b, -1 se a < b
